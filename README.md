@@ -1,3 +1,4 @@
+![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋, I'm Mateus Begosso</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/QSb5JWCCpzkAAAAC/typing-eric-cartman.gif">
