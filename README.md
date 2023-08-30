@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusbegosso&label=Profile%20views&color=0e75b6&style=flat" alt="mateusbegosso" /> </p>
 
 
-- 🌱 I’m currently learning **JS, Angular and React**
+- 🌱 I’m currently learning **TypeScript, Angular and Java**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-mateusbegosso.vercel.app](https://portfolio-mateusbegosso.vercel.app)
 
